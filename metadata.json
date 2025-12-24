@@ -1,0 +1,7 @@
+{
+  "name": "StyleSwap AI 風格轉換",
+  "description": "使用 Gemini 2.5 Flash Image 將您的照片轉換為藝術傑作。上傳照片，從 20 種預設風格（如賽博龐克或吉卜力）中選擇，或輸入您自己的創意想法。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
